@@ -23,4 +23,5 @@ PRODUCT_COPY_FILES += \
     vendor/lluvia/prebuilt/fonts/anurati/anurati_regular.ttf:system/fonts/anurati_regular.ttf \
     vendor/lluvia/prebuilt/fonts/Joost/JoostAMillionaireNF.ttf:system/fonts/JoostAMillionaireNF.ttf \
     vendor/lluvia/prebuilt/fonts/Locust/Locust_Resistance.ttf:system/fonts/Locust_Resistance.ttf \
-    vendor/lluvia/prebuilt/fonts/Wallpoet/Wallpoet_regular.ttf:system/fonts/Wallpoet_regular.ttf
+    vendor/lluvia/prebuilt/fonts/Wallpoet/Wallpoet_regular.ttf:system/fonts/Wallpoet_regular.ttf \
+    vendor/lluvia/prebuilt/fonts/SAO-Regular.ttf:system/fonts/SAO-Regular.ttf 
